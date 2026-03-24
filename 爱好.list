@@ -11,3 +11,9 @@ DOMAIN-KEYWORD,gamer
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,viblast.com
+
+# 本地直连匹配该后缀的所有子域名 (最常用，推荐)
+DOMAIN-SUFFIX,99999996.xyz,DIRECT
+DOMAIN-SUFFIX,6290000.xyz,DIRECT
+DOMAIN-SUFFIX,heimao.dpdns.org,DIRECT
+DOMAIN-SUFFIX,heimao33.dpdns.org,DIRECT
