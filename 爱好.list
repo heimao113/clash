@@ -1,3 +1,13 @@
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,hanime1.me
+
+
+# 巴哈姆特主站及动画疯
 DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-KEYWORD,gamer
+
+# 视频流与相关验证
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,viblast.com
