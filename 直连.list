@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,heimao.dpdns.org,DIRECT
 DOMAIN-SUFFIX,heimao33.dpdns.org,DIRECT
 DOMAIN-SUFFIX,115.com,DIRECT
 DOMAIN-SUFFIX,dm.heimao.dpdns.org,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
 
 # 1. 默认的下载测速域名（最核心，-1 主要是它引起的）
 DOMAIN,speed.cloudflare.com,DIRECT
