@@ -1,4 +1,6 @@
-DOMAIN-SUFFIX,uhdnow.com
+DOMAIN,v1.uhdnow.com,PROXY
+DOMAIN,v1-vod1.uhdnow.com,PROXY
+DOMAIN,v1-vod2.uhdnow.com,PROXY
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,anibt.net
 DOMAIN-SUFFIX,media.nijigem.by
