@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,agentrouter.org
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN,v1.uhdnow.com,PROXY
+DOMAIN,v1-vod1.uhdnow.com,PROXY
+DOMAIN,v1-vod2.uhdnow.com,PROXY
