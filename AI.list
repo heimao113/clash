@@ -1,5 +1,8 @@
 # 内容：OpenAi Bard anthropic
 # 域名关键字匹配
+DOMAIN,v1.uhdnow.com
+DOMAIN,v1-vod1.uhdnow.com
+DOMAIN,v1-vod2.uhdnow.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
@@ -27,6 +30,4 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,agentrouter.org
 DOMAIN-SUFFIX,nodeseek.com
-DOMAIN,v1.uhdnow.com,PROXY
-DOMAIN,v1-vod1.uhdnow.com,PROXY
-DOMAIN,v1-vod2.uhdnow.com,PROXY
+
